@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection">Please check your connection status and try again</string>
+    <string name="no_internet">No Internet</string>
+    <string name="close">Close</string>
+</resources>
