@@ -11,6 +11,7 @@ import android.view.View;
  */
 public class InternetDialog {
 
+
     private Context context;
 
 
